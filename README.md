@@ -1,2 +1,2 @@
 My first readme
-Software engineering is great 
+i love software engineering 
